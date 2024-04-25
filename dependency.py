@@ -18,4 +18,6 @@ workspace=[
     "TFE-PROD-APP4"
     ]
 githubuser="avisek12"
+TOKEN = 'Rn4V7TYppUKJ2w.atlasv1.Blv620EYY496UDkt7fVXSyUyLdTsFe3GbjdlQVZRw46HteXA32DYK0CtSaWbup7QJ8Y'
+github_token= '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'
 
